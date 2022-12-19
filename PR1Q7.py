@@ -1,0 +1,7 @@
+f=open('f2.txt','a')
+f.write('writing to the file line 1\n')
+f.write('writing to the file line 2\n')
+f.write('writing to the file line 3\n')
+f.write('writing to the file line 4\n')
+f.write('writing to the file line 5')
+f.close()
